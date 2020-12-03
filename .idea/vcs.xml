@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/aead/siphash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/boltdb/bolt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/btcd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/btclog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/btcutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/go-socks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/goleveldb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/snappy-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/btcsuite/winsvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/davecgh/go-spew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/golang/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/jessevdk/go-flags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/jrick/logrotate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/kkdai/bstream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/roasbeef/go-go-gadget-paillier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/stretchr/testify" vcs="Git" />
+  </component>
+</project>
