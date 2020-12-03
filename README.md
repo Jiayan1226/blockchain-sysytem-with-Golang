@@ -1,1 +1,1 @@
-# blockchain-sysytem-with-Golang
+# blockchain-system-with-Golang
